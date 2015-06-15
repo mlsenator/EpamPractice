@@ -1,0 +1,10 @@
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\EShopDomainModel.Tests.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\EShopDomainModel.Tests.pdb
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\obj\Debug\EShopDomainModel.Tests.csprojResolveAssemblyReference.cache
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\obj\Debug\EShopDomainModel.Tests.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\obj\Debug\EShopDomainModel.Tests.pdb
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\EShopDomainModel.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\Rhino.Mocks.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\Spextensions.RhinoMocks.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\EShopDomainModel.pdb
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\EShopDomainModel.Tests\bin\Debug\Rhino.Mocks.xml

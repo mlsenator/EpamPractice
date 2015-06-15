@@ -1,0 +1,5 @@
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\E.Shop\obj\Debug\E.Shop.Domain.Model.csprojResolveAssemblyReference.cache
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\E.Shop\bin\Debug\E.Shop.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\E.Shop\bin\Debug\E.Shop.pdb
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\E.Shop\obj\Debug\E.Shop.dll
+c:\users\sensor\documents\visual studio 2013\Projects\E.Shop\E.Shop\obj\Debug\E.Shop.pdb
