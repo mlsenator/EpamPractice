@@ -1,0 +1,29 @@
+﻿@model List<string>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<ul id="comments">
+    @foreach (var c in Model)
+    {
+        @Html.Partial("_AddCommentPartial", c)
+    }
+</ul>
+
+@{
+    ViewBag.Title = "AddComment";
+}
+
+<h2>AddComment</h2>
+
+
+
+@using (Ajax.BeginForm("AddComment", new AjaxOptions
+                                         {
+                                             UpdateTargetId = "comments",
+                                             InsertionMode = InsertionMode.InsertAfter
+                                         }))
+{
+    @Html.TextArea("comment")
+    <input type="submit" value="Добавить комментарий" />
+}
+

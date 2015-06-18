@@ -1,0 +1,40 @@
+﻿
+@model List<AjaxPractice.Models.CommentVM>
+@{
+    var newComment = new AjaxPractice.Models.CommentVM();
+}
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/Scripts/Comment/AddCommentScript.js")
+
+<html>
+<head>
+    <title>AddCommentJson</title>
+</head>
+<body>
+    <div>
+        <h2>Comments</h2>
+        <ul id="comments">
+            @foreach (var c in Model)
+            {
+                <li>Id : @c.Id | comment : @c.Comment</li>
+            }
+        </ul>
+        @using (Html.BeginForm("AddCommentJson", "Home", FormMethod.Post, new { id = "commentForm" }))
+        {
+            <div>
+                @Html.LabelFor(m => newComment.Id)
+            </div>
+            <div>
+                @Html.TextBoxFor(m => newComment.Id)
+            </div>
+            <div>
+                @Html.LabelFor(m => newComment.Comment)
+            </div>
+            <div>
+                @Html.TextAreaFor(m => newComment.Comment)
+            </div>
+            <input type="submit" value="comment">
+        }
+    </div>
+</body>
+</html>

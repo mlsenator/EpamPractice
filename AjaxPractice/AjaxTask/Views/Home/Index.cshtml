@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Index view</h1>
+<div class="form-btn">
+    @using (Html.BeginForm("Alert", "Home", FormMethod.Get))
+    {
+        <input id="next-btn" value="Next" class="btn btn-default" type="submit" />
+    }
+    <br />
+    <input id="dialog-btn" value="Dialog" class="btn btn-default" type="submit" />
+</div>
+
+<iframe id="bla" style="visibility: hidden; width : 100%; height : 250px"></iframe>
+
+
+@section scripts
+{
+    @Scripts.Render("~/Scripts/Custom/custom.js")
+}
