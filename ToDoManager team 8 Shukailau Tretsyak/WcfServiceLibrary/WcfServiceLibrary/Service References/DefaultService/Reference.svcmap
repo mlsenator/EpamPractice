@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f2482933-e949-4eac-a4c6-0dc3310f42e4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://epbyminw0341/ToDoManagerService/TodoManager.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ToDoManager.wsdl" MetadataType="Wsdl" ID="b0dadf26-d289-48fc-8ca1-2bf3513979a1" SourceId="1" SourceUrl="http://epbyminw0341/ToDoManagerService/TodoManager.svc?wsdl" />
+    <MetadataFile FileName="TodoManager.xsd" MetadataType="Schema" ID="0ec509cd-fc44-4b2c-9292-16480305dbf1" SourceId="1" SourceUrl="http://epbyminw0341/ToDoManagerService/TodoManager.svc?xsd=xsd2" />
+    <MetadataFile FileName="TodoManager1.xsd" MetadataType="Schema" ID="618d2a59-d0ac-410f-93ae-330990f260ae" SourceId="1" SourceUrl="http://epbyminw0341/ToDoManagerService/TodoManager.svc?xsd=xsd0" />
+    <MetadataFile FileName="TodoManager.disco" MetadataType="Disco" ID="e831da28-979a-46c8-b016-4c622dabd9dc" SourceId="1" SourceUrl="http://epbyminw0341/ToDoManagerService/TodoManager.svc?disco" />
+    <MetadataFile FileName="TodoManager2.xsd" MetadataType="Schema" ID="111b50b6-5c1d-47b1-8a7e-c4e90965ebf1" SourceId="1" SourceUrl="http://epbyminw0341/ToDoManagerService/TodoManager.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
