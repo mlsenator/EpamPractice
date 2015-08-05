@@ -1,0 +1,11 @@
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\WorstToDoManager.dll.config
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\WorstToDoManager.dll
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\WorstToDoManager.pdb
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\EntityFramework.dll
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\ToDo.Infrastructure.dll
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\EntityFramework.xml
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\obj\Debug\WorstToDoManager.dll
+c:\users\sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\obj\Debug\WorstToDoManager.pdb
+C:\Users\Sensor\documents\visual studio 2013\Projects\WorstToDoManager\WorstToDoManager\obj\Debug\WorstToDoManager.csprojResolveAssemblyReference.cache
